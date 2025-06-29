@@ -1,4 +1,7 @@
+
 Creating a conflict
-ZZZZZZZzz
-ZZZZZz
-ZZZZZZZZZZZ
+
+# References
+
+* octocat 1 😈
+
